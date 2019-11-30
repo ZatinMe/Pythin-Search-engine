@@ -3,8 +3,6 @@ This is an basic implementation of a file search engine based on python to answe
 
 
 
-![File search](https://d2mxuefqeaa7sj.cloudfront.net/s_1D41B02FD370E9421BC547A10B33599B65FB1E999AD0406AEADC255FC807DBAD_1531307881991_file_search.png)
-
 
 
 # Features 
